@@ -1,1 +1,40 @@
 /* write your override styles here */
+#wall {
+    display: none;
+  }
+  
+  #wall .tag-1 {
+    display: none;
+  }
+  /* write your override styles here */
+#wall {
+  display: none;
+}
+
+#wall .tag-1 {
+  display: none;
+}
+
+#background-wal{
+    display: none;
+}
+
+#grafitti { display:none;}
+
+/* write your override styles here */
+#wall {
+  display: none;
+}
+
+#wall .tag-1 {
+  display: none;
+}
+
+#background-wal{
+    display: none;
+}
+
+#grafitti { display:none;}
+
+#wall .tag-2{display:none;}
+
